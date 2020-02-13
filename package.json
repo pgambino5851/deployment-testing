@@ -1,0 +1,30 @@
+{
+  "name": "deployment-testing",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "10.15.1"
+  },
+  "main": "index.js",
+  
+  "scripts": {
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgambino5851/deployment-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgambino5851/deployment-testing/issues"
+  },
+  "homepage": "https://github.com/pgambino5851/deployment-testing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
